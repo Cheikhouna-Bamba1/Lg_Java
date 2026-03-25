@@ -177,4 +177,9 @@
 		</plugins>
 	</reporting>
 
+	<properties>
+ 		 <sonar.organization>dar2026ab-1</sonar.organization>
+	</properties>
+
 </project>
+
